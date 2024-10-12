@@ -1,0 +1,18 @@
+{
+    "api_id": 00000000, 
+    "api_hash": "00000000000000000000000", 
+    "referral_code": "f5734598453",
+    "colors": [
+        "#E46E6E",
+        "#E46E6E"
+    ],
+    "auto_upgrade": {
+        "energyLimit": false,
+        "paintReward": false,
+        "reChargeSpeed": false
+    },
+    "time_before_start": [30, 60],
+    "min_sleep_time": 1,
+    "max_sleep_time": 3,
+    "countdown": 10
+}
